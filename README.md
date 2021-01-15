@@ -1,3 +1,5 @@
+Admin создается с помощью seeder
+
 Admin login and password: admin@admin.com admin123
 
 
